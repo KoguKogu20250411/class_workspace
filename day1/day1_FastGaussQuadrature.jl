@@ -9,4 +9,5 @@ f(x) = x^4
 
 I = dot(w, f.(x))
 
-prynt(I)
+print(I)
+print(I)
